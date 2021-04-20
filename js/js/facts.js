@@ -1,0 +1,80 @@
+
+
+  export  var facts = [
+        ['Mikołaj Kopernik, jako pierwszy odkrył, że Ziemia nie jest centrum wszechświata.'],
+        ['W Polsce jest najwięcej w Europie gospodarstw rolnych.'],
+        ['Nazwa “Polska” pochodzi od plemienia “Polanie”.'],
+        ['Katolicyzm jest tak popularny, że jest tu nawet katolicki kanał telewizyjny i radiowy.'],
+        ['Jednym z najwybitniejszych Polaków był Papież – Jan Paweł II.'],
+        ['Najstarszym drzewem w Polsce i prawdopodobnie w Europie jest cis w Henrykowie Lubańskim mający około 1500 lat.'],
+        ['Polacy pierwsi na świecie, opracowali sposób na picie denaturatu, płynu borygo, kwasu siarkowego i wody kolońskiej.'],
+        ['Pustynie Błędowska jest jedyną naturalną pustynią w Europie.'],
+        ['Polska kupuje piasek, oraz żwir w Republice Południowej Afryki.'],
+        ['We Wrocławiu do 1998 roku działała nielegalna produkcja banknotów 100 $. Amerykańscy eksperci po ich analizie uznali, że są lepiej zrobione niż oryginalne.'],
+        ['Według zagranicznych serwisów typowo polską przypadłością jest picie piwa z sokiem przez słomkę, a jesienią i zimą piwa grzanego – z goździkami i cynamonem.'],
+        ['5 czerwca 1443 roku w okolicach Wrocławia ziemia za trzęsła się z siłą około 6 stopni w skali Richtera. Podczas tego największego odnotowanego trzęsienia ziemi w Polsce zginęło 30 osób.'],
+        ['Dopuszczalna zawartość alkoholu we krwi osoby prowadzącej samochód wynosi 0,2 promila.'],
+        ['Na Pałacu Kultury i Nauki w Warszawie znajduje się drugi co do wielkości w Europie zegar, mający 6 metrów średnicy. Jest to również 3 najwyżej umieszczony zegar na świecie.'],
+        ['W Gliwicach znajduje się drewniana radiostacja mająca aż 111 metrów wysokości. Jest to najwyższą w całości drewnianą konstrukcja na świecie.'],
+        ['Od 1973 do 2000 roku wyprodukowano 4 671 585 Fiatów 126 p zwanych popularnie “maluchami”.'],
+        ['W Świdnicy znajduje się największa drewniana świątynia w Europie – kościół ewangelicko-augsburski pod wezwaniem Świętej Trójcy.'],
+        ['Tomasz Jacek Filek w 1992 roku wymyślił szachy dla trzech osób.'],
+        ['20 grudnia 1991 roku Polska została podłączona do globalnego Internetu.'],
+        ['Najbardziej zadłużonym Polakiem jest mieszkaniec Mazowsza, którego dług wynosi aż 102 miliony złotych.'],
+        ['Józef Piłsudzki wspierany był finansowo przez wywiad japoński'],
+        ['Podczas II wojny światowej zginęło ponad 16 % obywateli Polski.'],
+        ['Maria Curie Skłodowska była pierwszym człowiekiem, który zginął z powodu promieniowania.'],
+        ['W 1942 roku Niemcy wydali rozkaz zabicia wszystkich gołębi pocztowych na terenie Polski.'],
+        ['Puszcza Białowieska jest najstarszym lasem w Europie.'],
+        ['W Poznaniu znajduje się najmłodszy zamek w Europie wybudowany w 1910 roku.'],
+        ['Pierwszy grosz wybity został w 1367 roku.'],
+        ['W Sudetach znajduje się 15 wygasłych wulkanów, których ostatnia aktywność miała miejsce 20 milionów lat temu.'],
+        ['Zamek w Malborku jest największym gotyckim zamkiem na świecie. Zbudowany został z około 4,5 miliona cegieł.'],
+        ['Symbol swastyki przed wybuchem II Wojny Światowej znajdował się na wielu różnych polskich odznakach.'],
+        ['Podczas I Wojny Światowej najbardziej zniszczony został Kalisz. Ostrzelano i spalono blisko 95 % miasta.'],
+        ['Sól kamienna wydobywana w Kłodawie ma ponad 250 milionów lat.'],
+        ['Polska była jedynym krajem, któremu udało się zdobyć Moskwę. Kreml okupowany był przez dwa lata, od 1610 roku.'],
+        ['Polska jest największym producentem jabłek w Europie.'],
+        ['W kościele Św. Katarzyny w Gdańsku zamontowano zegar pulsarowy – najdokładniejszy zegar na świecie. Jest on 10 razy bardziej dokładny od zegara atomowego.'],
+        ['Wódka Belvedere uważana jest za najbardziej luksusową wódkę na świecie. Za butelkę 0,7 litra zapłacić trzeba około 130 zł.'],
+        ['Mirosław Hermaszewski jest jedynym polskim kosmonautą. W 1978 roku uczestniczył w locie, który trwał ponad 190 godzin.'],
+        ['Dopiero w 1952 roku w Konstytucji Polskiej Rzeczypospolitej Ludowej zapisane zostało, że stolicą Polski jest Warszawa.'],
+        ['W województwie wielkopolskim znajduje się miejscowość o nazwie Koniec Świata. Mieszka w niej jedna osoba.'],
+        ['Najpopularniejszym “łamańcem językowym” jest: Król Karol kupił królowej Karolinie korale koloru koralowego.'],
+        ['Jan Paweł II i Lech Wałęsa znaleźli się na liście 100 najwybitniejszych ludzi XX wieku według tygodnika “Time”.'],
+        ['Symbol polskiej waluty PLN oznacza Polski Nowy.'],
+        ['W 1934 roku port w Gdyni był najnowocześniejszy w Europie.'],
+        ['Pierwsze nowe banknoty po denominacji wydrukowano w Wielkiej Brytanii.'],
+        ['Narodowym drzewem jest dąb.'],
+        ['17 Polaków otrzymało Nagrodę Nobla, czyli więcej niż w Japonii, Chinach, Indiach czy Australii.'],
+        ['Picie piwa z sokiem i w postaci grzańca to polski pomysł, rzadko spotykany w innych zakątkach świata.'],
+        ['Polska to największy eksporter bursztynu na świecie – szacuje się że udział polskich wyrobów na rynku światowym sięgać może nawet 70%.'],
+        ['Polacy bardzo wcześnie postanawiają legalizować swoje związki. Średni wiek panny młodej wynosi 24 lata, a pana młodego 26 lat.'],
+        ['Pałac Kultury i Nauki w Warszawie był darem Stalina dla narodu polskiego.'],
+        ['Polska konstytucja była pierwszą w Europie i drugą na świecie. Powstała zaraz po Stanach Zjednoczonych.'],
+        ['Henryk Maguński wymyślił Walkie-Talkie w 1940 roku.'],
+        ['Najstarsza restauracja w Europie, Piwnica Świdnicka, powstała w 1275 roku i znajduje się we Wrocławiu.'],
+        ['Henryk Sienkiewicz, autor Quo Vadis, laureat Literackiej Nagrody Nobla, pochowany jest w warszawskiej katedrze św. Jana.'],
+        ['Puszcza Białowieska jest domem dla 800 żubrów, czyli najcięższego w Europie zwierzęcia lądowego.'],
+        ['Polska nigdy nie poddała się oficjalnie Niemcom, a polski ruch oporu w okupowanej przez Niemców Polsce podczas II wojny światowej był największym ruchem oporu w Europie.'],
+        ['„Jestem wdzięczny niebiosom, że we wszystkich moich instynktach stałem się Polakiem” – Friederick Nietzsche.'],
+        ['Gniezno było pierwszą stolicą Polski. Katedra gnieźnieńska jest siedzibą polskich arcybiskupów od 1000 roku.'],
+        ['W naszym kraju restauracje serwują pizzę z keczupem, co nie jest zbyt popularne w innych krajach Europejskich.'],
+        ['Prezydent RP przyznaje medal parom, które pozostają w związku małżeńskim przez co najmniej 50 lat.'],
+        ['W Warszawie osoby urodzone w środkach transportu publicznego mają prawo do bezpłatnego podróżowania, aż do śmierci.'],
+        ['W 1989 r. Polska nie graniczyła z żadnym z krajów z którym obecnie graniczy, co zaskakujące nie zmieniając granic.'],
+        ['Ponad 90% Polaków ukończyło minimum szkołę średnią. Coraz więcej młodych ludzi kontynuuje swoją karierę edukacyjną i wybiera się na studia.'],   
+
+    ];  
+
+    setInterval(function(){
+     
+    return result;
+    }, 1000)
+
+   export var grat = [
+      ['Gratulacje ! Masz bogatą wiedzę o Polsce i jesteś przygotowany na rozmowę z konsulem . Wracaj do nas aby utrwalić twoje wiadomości !'],
+      ['Twoja wiedza o Polsce jest imponująca ! Jesteś gotowy na rozmowę z konsulem . Wracaj na nasza stronę i ćwicz , aby utrwalić twoje wiadomości .'],
+      ['Doskonale ! Zdałeś test . Masz doskonałą wiedzę o Polsce . Utrwalaj ją na naszej stronie przed rozmową z konsulem.']
+    ];
+    
